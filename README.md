@@ -7,6 +7,12 @@ Ao meu projeto, este é um site ficticio simples de empresa de Segurança Digita
 ![Presentation](https://github.com/IsadoraVanderlan/site-seguranca-digital/blob/main/presentation.gif)
 <br/><br/>
 
+# Link Para Visualização do Site:
+
+<a href="https://isadoravanderlan.github.io/site-seguranca-digital/">Computer Security
+</a>
+<br/>
+
 # Técnicos:
 
 - HTML
@@ -18,13 +24,6 @@ Ao meu projeto, este é um site ficticio simples de empresa de Segurança Digita
 # Cores:
 
 - Azul: linear-gradient(146deg, hsla(240, 5%, 45%, 0.212) 0%, hsla(257, 19%, 39%, 0.192))
-
-
-# Link Para Visualização do Site:
-
-<a href="https://isadoravanderlan.github.io/site-seguranca-digital/">Computer Security
-</a>
-<br/>
 
 
 # Desenvolvimento!
