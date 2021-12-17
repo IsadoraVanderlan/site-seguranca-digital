@@ -23,7 +23,7 @@ Ao meu projeto, este é um site ficticio simples de empresa de Segurança Digita
 
 # Cores:
 
-- Azul: linear-gradient(146deg, hsla(240, 5%, 45%, 0.212) 0%, hsla(257, 19%, 39%, 0.192))
+- Azul em gradiente: linear-gradient(146deg, hsla(240, 5%, 45%, 0.212) 0%, hsla(257, 19%, 39%, 0.192))
 
 
 # Desenvolvimento!
