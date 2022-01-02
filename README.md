@@ -1,6 +1,6 @@
 # Bem-vindos :)
 
-Ao meu projeto, este é um site ficticio simples de empresa de Segurança Digital.
+Ao meu projeto, este é um site fictício simples de empresa de Segurança Digital.
 
 <br/>
 
